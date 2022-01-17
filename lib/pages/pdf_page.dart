@@ -38,7 +38,7 @@ class _PdfPageState extends State<PdfPage> {
                       TextFormField(
                         decoration: const InputDecoration(
                           icon: Icon(Icons.format_list_numbered),
-                          labelText: "ID GİRİNİZ",
+                          labelText: "ID ",
                         ),
                         controller: myController0,
                       ),
